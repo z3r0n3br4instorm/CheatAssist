@@ -1,0 +1,5 @@
+ollama
+chromadb
+pypdf
+keyboard
+pyperclip
