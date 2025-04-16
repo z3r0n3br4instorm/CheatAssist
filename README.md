@@ -4,3 +4,5 @@ Too bored to write a requirements.txt for this because this is a small program.
 
 You need to have dbus and pydbus to use this, and you need a graphical environment, because this uses notifications
 to send the answer to the user.
+
+Run the program, and then use ctrl+c to copy the MCQ Question, then Ctrl+Alt+C to start the generation process
