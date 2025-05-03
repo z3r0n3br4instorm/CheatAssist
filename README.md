@@ -12,7 +12,7 @@ and complex concepts. Built with Ollama and RAG (Retrieval-Augmented Generation)
 
 ## Usage
 
-1. Add your study materials to the `study_resources/data.pdf` file
+1. Add your study materials to the `RAG_DATA/data.pdf` file
 2. Run the program with `python main.py`
 3. Select text you want to understand better
 4. Press Ctrl+Alt+E to get an explanation
